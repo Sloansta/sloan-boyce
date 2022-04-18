@@ -2,7 +2,7 @@ import Image from "../assets/img/back-drop.jpeg"
 
 const Jumbotron = () => {
     return (
-        <div className="min-h-screen flex flex-col items-center justify-center bg-fixed">
+        <div className="top-0 left-0 min-h-screen flex flex-col items-center justify-center bg-fixed">
             <img 
             className="absolute w-full h-full object-cover"
             src={Image} 
