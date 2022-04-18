@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sloan-boyce/portfolio/static/css/main.f27dcd26.css",
+    "main.js": "/sloan-boyce/portfolio/static/js/main.8a1ac39b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/sloan-boyce/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/back-drop.jpeg": "/sloan-boyce/portfolio/static/media/back-drop.a46be9b4adfc7d8216f1.jpeg",
+    "index.html": "/sloan-boyce/portfolio/index.html",
+    "main.f27dcd26.css.map": "/sloan-boyce/portfolio/static/css/main.f27dcd26.css.map",
+    "main.8a1ac39b.js.map": "/sloan-boyce/portfolio/static/js/main.8a1ac39b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/sloan-boyce/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f27dcd26.css",
+    "static/js/main.8a1ac39b.js"
+  ]
+}
