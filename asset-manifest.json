@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sloan-boyce/static/css/main.a861d21f.css",
-    "main.js": "/sloan-boyce/static/js/main.ecfebcd5.js",
+    "main.css": "/sloan-boyce/static/css/main.85700fc5.css",
+    "main.js": "/sloan-boyce/static/js/main.d2428704.js",
     "static/js/787.1ed0c42c.chunk.js": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js",
     "static/media/back-drop.jpeg": "/sloan-boyce/static/media/back-drop.a46be9b4adfc7d8216f1.jpeg",
     "index.html": "/sloan-boyce/index.html",
-    "main.a861d21f.css.map": "/sloan-boyce/static/css/main.a861d21f.css.map",
-    "main.ecfebcd5.js.map": "/sloan-boyce/static/js/main.ecfebcd5.js.map",
+    "main.85700fc5.css.map": "/sloan-boyce/static/css/main.85700fc5.css.map",
+    "main.d2428704.js.map": "/sloan-boyce/static/js/main.d2428704.js.map",
     "787.1ed0c42c.chunk.js.map": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a861d21f.css",
-    "static/js/main.ecfebcd5.js"
+    "static/css/main.85700fc5.css",
+    "static/js/main.d2428704.js"
   ]
 }
