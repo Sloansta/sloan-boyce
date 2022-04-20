@@ -4,7 +4,7 @@ const Jumbotron = () => {
     return (
         <div className="min-h-screen flex flex-col items-center justify-center p-0 m-0">
             <img 
-            className="absolute w-full h-full object-cover bg-fixed"
+            className="absolute w-full h-full object-cover bg-fixed sm:scale-100"
             src={Image} 
             alt="Osaka" 
             />
