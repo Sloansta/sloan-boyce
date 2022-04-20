@@ -1,10 +1,10 @@
-import Image from "../assets/img/streets.jpg";
+import Image from "../assets/img/back-drop.jpeg";
 
 const Jumbotron = () => {
     return (
         <div className="min-h-screen flex flex-col items-center justify-center p-0 m-0">
             <img 
-            className="absolute w-full h-full object-cover bg-fixed"
+            className="absolute w-full h-full md:object-cover lg:object-cover sm:object-none sm:transform scale-125 bg-fixed"
             src={Image} 
             alt="Osaka" 
             />
