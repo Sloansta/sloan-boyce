@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sloan-boyce/static/css/main.010f59e6.css",
-    "main.js": "/sloan-boyce/static/js/main.fe992e4e.js",
+    "main.css": "/sloan-boyce/static/css/main.01dbe9f2.css",
+    "main.js": "/sloan-boyce/static/js/main.27efa324.js",
     "static/js/787.1ed0c42c.chunk.js": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js",
     "static/media/back-drop.jpeg": "/sloan-boyce/static/media/back-drop.a46be9b4adfc7d8216f1.jpeg",
     "index.html": "/sloan-boyce/index.html",
-    "main.010f59e6.css.map": "/sloan-boyce/static/css/main.010f59e6.css.map",
-    "main.fe992e4e.js.map": "/sloan-boyce/static/js/main.fe992e4e.js.map",
+    "main.01dbe9f2.css.map": "/sloan-boyce/static/css/main.01dbe9f2.css.map",
+    "main.27efa324.js.map": "/sloan-boyce/static/js/main.27efa324.js.map",
     "787.1ed0c42c.chunk.js.map": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.010f59e6.css",
-    "static/js/main.fe992e4e.js"
+    "static/css/main.01dbe9f2.css",
+    "static/js/main.27efa324.js"
   ]
 }
