@@ -17,10 +17,10 @@ module.exports = {
         },
         'wiggle': {
           '0%, 100%': {
-            transform: 'rotate(-5deg)'
+            transform: 'rotate(-10deg)'
           },
           '50%': {
-            transform: 'rotate(5deg)'
+            transform: 'rotate(10deg)'
           }
         }
       },
