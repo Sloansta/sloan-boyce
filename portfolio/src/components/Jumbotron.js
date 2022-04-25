@@ -1,4 +1,5 @@
 import Image from "../assets/img/back-drop.jpeg";
+//import Canvas from './Canvas';
 
 const Jumbotron = () => {
     return (
