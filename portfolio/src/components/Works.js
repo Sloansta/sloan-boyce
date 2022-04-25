@@ -1,25 +1,29 @@
 import { useState } from 'react';
+import CritiqueCode from '../assets/img/critique-code.png';
+import PasswordGenerator from  '../assets/img/password-generator.png';
+import WordleTerm from '../assets/img/wordle-term.gif';
+import WeebKeeper from '../assets/img/weeb-keepers.png';
 
 const Works = () => {
     const [projects] = useState([
         {
             name: 'Critique Code',
-            url: '../assets/img/critique-code',
+            img: CritiqueCode,
             description: 'A unique place to kick back and talk code. Share bad code, talk about good code. Critique Code takes the good parts of Reddit and Stackoverflow, and throws the bad in the trash.'
         },
         {
             name: 'Password Generator',
-            url: '../assets/img/password-generator',
+            img: PasswordGenerator,
             description: 'Need a password? Want it to take at least few million years for it to be brute forced? Password Generator!'
         },
         {
             name: 'Wordle-term',
-            url: '../assets/img/wordle-term',
+            img: WordleTerm,
             description: 'Like word games? Want to take a coding break but dont want to leave your terminal? I know I sometimes do. That is why I created Wordle-term. Play Wordle in the terminal.'
         },
         {
             name: 'Weeb Keeper',
-            url: '../assets/img/weeb-keeper',
+            img: WeebKeeper,
             description: 'A place for anime fans to keep track of anime that they are currently watching, and to discover new anime.'
         }
     ]);
@@ -34,6 +38,7 @@ const Works = () => {
                 {projects.map((project) => (
                     <div className='rounded-md text-lg py-3 m-4 shadow-xl border-2 w-80 mx-auto'>
                         <h1 className='mx-4 text-center'>{project.name}</h1>
+                        <img src={project.img} alt="" />
                         <p>{project.description}</p>
                     </div>
                 ))}
