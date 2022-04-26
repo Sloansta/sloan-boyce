@@ -7,7 +7,7 @@ import './index.css'
 
 function App() {
   return (
-    <div className='smooth-scroll md:scroll-auto'>
+    <div className='smooth-scroll md:scroll-auto overflow-y-hidden'>
       <Jumbotron />
       <About />
       <Works />
