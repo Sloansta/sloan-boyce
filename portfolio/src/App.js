@@ -2,6 +2,7 @@
 import Jumbotron from './components/Jumbotron';
 import About from './components/About';
 import Works from './components/Works';
+import Contact from './components/Contact';
 import './index.css'
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Jumbotron />
       <About />
       <Works />
+      <Contact />
     </div>
   );
 }
