@@ -16,15 +16,15 @@ const Contact = () => {
                     send him an email. <strong>He will be in touch soon.</strong>
                 </p>
             </div>
-            <div className='flex flex-col md:flex-row justify-center p-3 m-5'>
-                    <a href="https://linkedin.com" className='p-5'>
-                        <img src={linkedInLogo} alt="Sloan's linkedin account" className='object-scale-down h-48 w-80 bg-transparent' />
+            <div className='flex flex-col md:flex-row justify-center p-3 m-5 items-center'>
+                    <a href="https://linkedin.com" className='p-2'>
+                        <img src={linkedInLogo} alt="Sloan's linkedin account" className='object-scale-down h-48 bg-transparent' />
                     </a>
-                    <a href="https://github.com/sloansta" className='p-5'>
-                        <img src={githubLogo} alt="Sloan's github profile" className='object-scale-down h-48 w-80 bg-transparent' />
+                    <a href="https://github.com/sloansta" className='p-2 justify-center'>
+                        <img src={githubLogo} alt="Sloan's github profile" className='object-scale-down h-48 bg-transparent' />
                     </a>
-                    <a href="mailto: sloan.boyce@gmail.com" className='p-5'>
-                        <img src={emailLogo} alt="Sloan's email" className='object-scale-down h-48 w-80 bg-transparent' />
+                    <a href="mailto: sloan.boyce@gmail.com" className='p-2 justify-center'>
+                        <img src={emailLogo} alt="Sloan's email" className='object-scale-down h-48 bg-transparent' />
                     </a>
             </div>
         </div>
