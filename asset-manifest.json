@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/sloan-boyce/static/css/main.963a3ca1.css",
-    "main.js": "/sloan-boyce/static/js/main.dcc31921.js",
+    "main.css": "/sloan-boyce/static/css/main.b8b33fa5.css",
+    "main.js": "/sloan-boyce/static/js/main.1bc088eb.js",
     "static/js/787.1ed0c42c.chunk.js": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js",
     "static/media/back-drop.jpeg": "/sloan-boyce/static/media/back-drop.a46be9b4adfc7d8216f1.jpeg",
     "static/media/critique-code.png": "/sloan-boyce/static/media/critique-code.a15a07dfa6cb89c447f1.png",
-    "static/media/github-logo.png": "/sloan-boyce/static/media/github-logo.1f40b5b64e3175693c4d.png",
-    "static/media/linkedin-logo.png": "/sloan-boyce/static/media/linkedin-logo.72238703b1d3e7d0ca20.png",
     "static/media/weeb-keepers.png": "/sloan-boyce/static/media/weeb-keepers.0d3755b194884d1721ff.png",
     "static/media/password-generator.png": "/sloan-boyce/static/media/password-generator.95a8234730ce17c66b57.png",
+    "static/media/linkedin-logo.png": "/sloan-boyce/static/media/linkedin-logo.311fc69e888c68190877.png",
     "static/media/wordle-term.gif": "/sloan-boyce/static/media/wordle-term.92f2264537310ad03cce.gif",
-    "static/media/email-logo.png": "/sloan-boyce/static/media/email-logo.c798557eb338092410b1.png",
     "index.html": "/sloan-boyce/index.html",
-    "main.963a3ca1.css.map": "/sloan-boyce/static/css/main.963a3ca1.css.map",
-    "main.dcc31921.js.map": "/sloan-boyce/static/js/main.dcc31921.js.map",
+    "main.b8b33fa5.css.map": "/sloan-boyce/static/css/main.b8b33fa5.css.map",
+    "main.1bc088eb.js.map": "/sloan-boyce/static/js/main.1bc088eb.js.map",
     "787.1ed0c42c.chunk.js.map": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.963a3ca1.css",
-    "static/js/main.dcc31921.js"
+    "static/css/main.b8b33fa5.css",
+    "static/js/main.1bc088eb.js"
   ]
 }
