@@ -18,13 +18,13 @@ const Contact = () => {
             </div>
             <div className='flex flex-col md:flex-row justify-center p-3 m-5'>
                     <a href="https://linkedin.com" className='p-5'>
-                        <img src={linkedInLogo} alt="Sloan's linkedin account" className='object-cover h-48 w-80 bg-transparent' />
+                        <img src={linkedInLogo} alt="Sloan's linkedin account" className='object-scale-down h-48 w-80 bg-transparent' />
                     </a>
                     <a href="https://github.com/sloansta" className='p-5'>
-                        <img src={githubLogo} alt="Sloan's github profile" className='object-cover h-48 w-80 bg-transparent' />
+                        <img src={githubLogo} alt="Sloan's github profile" className='object-scale-down h-48 w-80 bg-transparent' />
                     </a>
                     <a href="mailto: sloan.boyce@gmail.com" className='p-5'>
-                        <img src={emailLogo} alt="Sloan's email" className='object-cover h-48 w-80 bg-transparent' />
+                        <img src={emailLogo} alt="Sloan's email" className='object-scale-down h-48 w-80 bg-transparent' />
                     </a>
             </div>
         </div>
