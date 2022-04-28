@@ -12,12 +12,12 @@ const Contact = () => {
             <div className='flex flex-col md:flex-row text-white justify-center p-3 m-5
                 text-xl tracking-tight snap-center lg:text-3xl place-items-center'>
                 <p className='text-center'>
-                    Connect on Linkdin, check out Sloan's code on Github or,
+                    Connect on Linkedin, check out Sloan's code on Github or,
                     send him an email. <strong>He will be in touch soon.</strong>
                 </p>
             </div>
             <div className='flex flex-col md:flex-row justify-center p-3 m-5 items-center'>
-                    <a href="https://linkedin.com" className='p-2'>
+                    <a href="https://www.linkedin.com/in/sloan-boyce-3b89ba230/" className='p-2'>
                         <img src={linkedInLogo} alt="Sloan's linkedin account" className='object-scale-down h-48 bg-transparent' />
                     </a>
                     <a href="https://github.com/sloansta" className='p-2 justify-center'>
