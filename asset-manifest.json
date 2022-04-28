@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sloan-boyce/static/css/main.5204d826.css",
-    "main.js": "/sloan-boyce/static/js/main.a51fd36f.js",
+    "main.js": "/sloan-boyce/static/js/main.432c3561.js",
     "static/js/787.1ed0c42c.chunk.js": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js",
     "static/media/back-drop.jpeg": "/sloan-boyce/static/media/back-drop.a46be9b4adfc7d8216f1.jpeg",
     "static/media/critique-code.png": "/sloan-boyce/static/media/critique-code.a15a07dfa6cb89c447f1.png",
@@ -11,11 +11,11 @@
     "static/media/wordle-term.gif": "/sloan-boyce/static/media/wordle-term.92f2264537310ad03cce.gif",
     "index.html": "/sloan-boyce/index.html",
     "main.5204d826.css.map": "/sloan-boyce/static/css/main.5204d826.css.map",
-    "main.a51fd36f.js.map": "/sloan-boyce/static/js/main.a51fd36f.js.map",
+    "main.432c3561.js.map": "/sloan-boyce/static/js/main.432c3561.js.map",
     "787.1ed0c42c.chunk.js.map": "/sloan-boyce/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5204d826.css",
-    "static/js/main.a51fd36f.js"
+    "static/js/main.432c3561.js"
   ]
 }
