@@ -3,6 +3,7 @@ import Jumbotron from './components/Jumbotron';
 import About from './components/About';
 import Works from './components/Works';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 import './index.css'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <About />
       <Works />
       <Contact />
+      <Footer />
     </div>
   );
 }
