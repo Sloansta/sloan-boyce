@@ -36,10 +36,10 @@ const Works = () => {
             </h2>
             <div className='flex flex-col justify-center md:flex-row'>
                 {projects.map((project) => (
-                    <div className='rounded-md text-lg py-3 m-4 shadow-xl border-2 w-80 mx-auto'>
-                        <h1 className='mx-4 text-center'>{project.name}</h1>
+                    <div className='rounded-md text-lg py-auto m-4 shadow-xl border-2 w-80 mx-auto'>
+                        <h1 className='mx-4 text-center mb-4'>{project.name}</h1>
                         <img src={project.img} alt="" />
-                        <p>{project.description}</p>
+                        <p className='p-3 m-2'>{project.description}</p>
                     </div>
                 ))}
             </div>
